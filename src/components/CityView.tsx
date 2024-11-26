@@ -1,7 +1,7 @@
 import React, { useRef, useState, useMemo } from 'react'
 import { useFrame, useThree } from '@react-three/fiber'
 import { Box } from '@react-three/drei'
-import { Group, Vector3, MathUtils, Color, Matrix4 } from 'three'
+import { Group, Vector3, MathUtils, Matrix4 } from 'three'
 import { useGlobeStore } from '../stores/globeStore'
 import gsap from 'gsap'
 
