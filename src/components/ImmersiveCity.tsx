@@ -1,4 +1,3 @@
-import React, { useRef } from 'react'
 import { useFrame } from '@react-three/fiber'
 import { Box, Sphere, useTexture } from '@react-three/drei'
 import { Group, Vector3, RepeatWrapping } from 'three'

@@ -1,4 +1,3 @@
-import React, { useEffect, useRef } from 'react'
 import styled, { keyframes, css } from 'styled-components'
 
 // Lightning flash animation with random angles
